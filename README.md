@@ -5,7 +5,7 @@
 * [Installation](#Installation)
 * [Libraries](#Libraries)
 * [Operations](#Operations)
-* [Future Enhancements](#Future Enhancements)
+* [Future Enhancements](#Future-Enhancements)
 * [Conclusion](#Conclusion)
 ## Introduction
 The voice assistant script is a Python-based application designed to provide a variety of functionalities through voice commands. It leverages speech recognition and synthesis to interact with users, offering a range of features from setting alarms to retrieving stock prices and playing media. The assistant is designed to be both interactive and informative, making it a versatile tool for managing daily tasks and obtaining information.
@@ -81,7 +81,7 @@ platform: Retrieves system information.
 ## Operations
 Voice Commands: The assistant listens for specific commands and performs corresponding actions. Response Generation: Converts responses into speech and plays them back to the user. Alarm Functionality: Monitors the system clock and plays an alarm sound when the set time is reached. Information Fetching: Retrieves and presents information from various sources, including stock prices and Wikipedia.
 
-## Future Enhancements
+## Future-Enhancements
 Enhanced Natural Language Processing: Implement more sophisticated NLP techniques to understand and process a wider variety of user commands. Integration with Other APIs: Incorporate additional APIs for extended functionalities, such as flight tracking or news updates. Customizable Responses: Allow users to customize the voice assistant’s responses and behavior. Improved Error Handling: Implement more robust error handling to manage unforeseen issues or unsupported commands. User Authentication: Add security features to restrict certain actions based on user authentication.
 
 ## Conclusion
