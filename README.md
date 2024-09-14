@@ -1,7 +1,7 @@
 # John the voice assistant
 # Table of Contents
-[Intrduction](#Introduction)
-[Features](#Features)
+*[Intrduction](#Introduction)
+*[Features](#Features)
 [Installation](#Installation)
 [Libraries](#Libraries)
 [Operations](#Operations)
