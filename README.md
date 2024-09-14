@@ -1,12 +1,12 @@
 # John the voice assistant
 # Table of Contents
-*[Intrduction](#Introduction)
-*[Features](#Features)
-[Installation](#Installation)
-[Libraries](#Libraries)
-[Operations](#Operations)
-[Future Enhancements](#FutureEnhancements)
-[Conclusion](#Conclusion)
+* [Intrduction](#Introduction)
+* [Features](#Features)
+* [Installation](#Installation)
+* [Libraries](#Libraries)
+* [Operations](#Operations)
+* [Future Enhancements](#FutureEnhancements)
+* [Conclusion](#Conclusion)
 ## Introduction
 The voice assistant script is a Python-based application designed to provide a variety of functionalities through voice commands. It leverages speech recognition and synthesis to interact with users, offering a range of features from setting alarms to retrieving stock prices and playing media. The assistant is designed to be both interactive and informative, making it a versatile tool for managing daily tasks and obtaining information.
 
